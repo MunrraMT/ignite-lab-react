@@ -1,7 +1,5 @@
 import './styles/global.css';
 
 export function App() {
-  return (
-    <h1 className="font-bold text-5xl text-violet-500 text-center">teste</h1>
-  );
+  return <h1 className="text-cyan-500 text-2xl">teste</h1>;
 }
